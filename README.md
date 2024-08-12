@@ -17,3 +17,6 @@ This project is a ASP.NET 8 MVC application for tracking expenses. The applicati
 1. Clone the repository.
 2. Open the project in your preferred IDE.
 3. Run the application to start tracking your expenses.
+
+
+![Screenshot 2024-08-08 165732](https://github.com/user-attachments/assets/d7ee7115-8f3d-42bf-a6d5-3bf7c1b445f6)
