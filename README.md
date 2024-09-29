@@ -1,4 +1,4 @@
-# Expense Tracker
+# Spend Tracker
 
 This project is a ASP.NET 8 MVC application for tracking expenses. The application leverages the powerful Model-View-Controller (MVC) pattern
 
